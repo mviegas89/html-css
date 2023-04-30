@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    padding: 20px;
+    
+}
+
+header>h1{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+header h4 {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 1px;
+    
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;    
+}
